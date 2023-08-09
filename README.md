@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello I'm yizhou
+2024届毕业生，Linux C++技术栈，了解Go语言编程。
+2023年一月份拿到美团、百度、CVTE的日常实习offer。
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Shangyizhou" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shangyizhou&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
