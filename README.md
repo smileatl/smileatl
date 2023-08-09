@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 2024届通信与信息系统研究生，
 研究方法：边缘计算、大数据网络传输、机器学习
 技术栈：Linux、C++、Routing&Switching
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=smileatl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileatl&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
