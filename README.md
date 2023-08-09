@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello I'm yizhou
-2024届毕业生，Linux C++技术栈，了解Go语言编程。
-2023年一月份拿到美团、百度、CVTE的日常实习offer。
+# Hello I'm smileatl
+2024届通信与信息系统研究生，
+研究方法：边缘计算、大数据网络传输、机器学习
+技术栈：Linux、C++、Routing&Switching
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Shangyizhou" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shangyizhou&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=smileatl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileatl&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
