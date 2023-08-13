@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello I'm smileatl
+### Hi there 👋 I'm smileatl
 
 <!--
 **smileatl/smileatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - ✨研究方向：边缘计算、大数据网络传输、机器学习
 - :hammer:技术栈：Linux、C++、Routing&Switching
 - :computer:仓库：[mynetlib](https://github.com/smileatl/mynetlib) | [mymprpc](https://github.com/smileatl/MyRPC)
-- :heart:个人博客：[smileatl Repository]([https://ericpengshuai.github.io/](https://smileatl.gitee.io/))
+- :heart:个人博客：[smileatl Repository](https://smileatl.gitee.io/)
 - :sparkles:兴趣：:basketball: | :badminton: | :book:，冲啊
 - :weight_lifting_man:长期维护：[Cpp_Interview](https://github.com/smileatl/Cpp_Interview)
 
