@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :hammer:技术栈：Linux、C++、Routing&Switching
 - :computer:仓库：[mynetlib](https://github.com/smileatl/mynetlib) | [mymprpc](https://github.com/smileatl/MyRPC)
 - :heart:个人博客：[smileatl Repository](https://smileatl.gitee.io/)
-- :sparkles:兴趣：:basketball: | :badminton: | :book:，冲啊
+- :sparkles:兴趣：:book: | :basketball: | :badminton:，冲啊
 - :weight_lifting_man:长期维护：[Cpp_Interview](https://github.com/smileatl/Cpp_Interview)
 
 
