@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Hello I'm smileatl
 
 <!--
 **smileatl/smileatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello I'm smileatl
-2024届通信与信息系统研究生，研究方法：边缘计算、大数据网络传输、机器学习  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=smileatl&show_icons=true&hide_title=true" />  
 
-技术栈：Linux、C++、Routing&Switching
+- :mortar_board:背景：福州大学 | 2024届通信与信息系统（硕）
+- ✨研究方向：边缘计算、大数据网络传输、机器学习
+- :hammer:技术栈：Linux、C++、Routing&Switching
+- :computer:仓库：[mynetlib](https://github.com/smileatl/mynetlib) | [mymprpc](https://github.com/smileatl/MyRPC)
+- :heart:个人博客：[smileatl Repository]([https://ericpengshuai.github.io/](https://smileatl.gitee.io/))
+- :sparkles:兴趣：:basketball: | :badminton: | :book:，冲啊
+- :weight_lifting_man:长期维护：[Cpp_Interview](https://github.com/smileatl/Cpp_Interview)
 
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=smileatl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileatl&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
