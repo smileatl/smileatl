@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=smileatl&show_icons=true&hide_title=true" />  
 
-- :mortar_board:背景：福州大学 | 2024届通信与信息系统（硕）
+- :mortar_board:背景：通信与信息系统、电子信息工程
 - ✨研究方向：边缘计算、大数据网络传输、机器学习
 - :hammer:技术栈：Linux、C++、Routing&Switching
 - :computer:仓库：[mynetlib](https://github.com/smileatl/mynetlib) | [mymprpc](https://github.com/smileatl/MyRPC)
